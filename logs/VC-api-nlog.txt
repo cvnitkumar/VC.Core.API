@@ -1,0 +1,6 @@
+2018-11-20 23:32:19.9386 Info Message Template Auto Format enabled
+2018-11-20 23:32:19.9646 Info Loading assembly: NLog.Web.AspNetCore
+2018-11-20 23:32:20.1556 Info Adding target File Target[allfile]
+2018-11-20 23:32:20.2406 Info Adding target File Target[ownFile-web]
+2018-11-20 23:32:20.2616 Info Configured from an XML element in C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.API\bin\Debug\netcoreapp2.1\nlog.config...
+2018-11-20 23:32:20.2946 Info Found 45 configuration items

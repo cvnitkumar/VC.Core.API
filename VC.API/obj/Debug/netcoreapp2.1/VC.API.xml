@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>VC.API</name>
+    </assembly>
+    <members>
+        <member name="M:VC.API.Controllers.WordsBoardController.GetAllWords(System.Char[0:,0:])">
+            <summary>
+            This API will return all valid words in a given board.
+            </summary>
+            <remarks>
+            Sample request:
+                POST /api/GetAllWords
+                   [
+                     [ 'h', 'b', 'p']
+                    ,[ 'c', 'e', 'l']
+                    ,[ 'x', 'o', 'l']
+                   ]
+            </remarks>
+            <param name="board"></param>
+            <returns>All matching words in a board along with their meaning</returns> 
+            <response code="200">Returns all matching words in a board along with their meaning</response>
+            <response code="400">If the board is null or empty</response>
+        </member>
+        <member name="M:VC.API.Controllers.WordsBoardController.DoesWordExists(System.String,System.Char[0:,0:])">
+            <summary>
+            This API will search the given word in the given baord and returns true if it exists
+            </summary>
+            <remarks>
+            Sample request:
+                POST /api/DoesWordExists/hello
+                   [
+                     [ 'h', 'b', 'p']
+                    ,[ 'c', 'e', 'l']
+                    ,[ 'x', 'o', 'l']
+                   ]        ///
+            </remarks>
+            <param name="board">board characters</param>
+            <param name="word">word to search</param>
+            <returns>bool</returns>    
+            <response code="200">Returns the newly created item</response>
+            <response code="400">If the board is null or empty</response>
+        </member>
+    </members>
+</doc>

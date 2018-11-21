@@ -1,0 +1,9 @@
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\bin\Debug\netcoreapp2.1\VC.DS.deps.json
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\bin\Debug\netcoreapp2.1\VC.DS.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\bin\Debug\netcoreapp2.1\VC.DS.pdb
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\obj\Debug\netcoreapp2.1\VC.DS.csprojAssemblyReference.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\obj\Debug\netcoreapp2.1\VC.DS.csproj.CoreCompileInputs.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\obj\Debug\netcoreapp2.1\VC.DS.AssemblyInfoInputs.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\obj\Debug\netcoreapp2.1\VC.DS.AssemblyInfo.cs
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\obj\Debug\netcoreapp2.1\VC.DS.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS\obj\Debug\netcoreapp2.1\VC.DS.pdb

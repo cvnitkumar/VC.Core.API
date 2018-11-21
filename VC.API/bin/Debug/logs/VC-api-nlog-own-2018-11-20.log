@@ -1,0 +1,13 @@
+2018-11-20 23:32:20.4716||DEBUG|VC.API.Program|init main |url: |action: 
+2018-11-20 23:37:22.3933||INFO|VC.BLL.Board.WordsBoard|Loading dictionary data - Begin |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:37:22.5223||INFO|VC.BLL.Board.WordsBoard|Building WordsBoardGraph - Begin |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:37:22.5223||INFO|VC.BLL.Board.WordsBoard|Building WordsBoardGraph - Completed |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:37:38.0672||INFO|VC.BLL.Board.WordsBoard|Loading dictionary data - Completed |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:37:38.0672||INFO|VC.BLL.Board.WordsBoard|Searching Words in graph - Begin |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:37:38.0922||INFO|VC.BLL.Board.WordsBoard|Searching Words in graph - Completed |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:37:53.0871||INFO|VC.BLL.Board.WordsBoard|Loading dictionary data - Begin |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:37:53.1051||INFO|VC.BLL.Board.WordsBoard|Building WordsBoardGraph - Begin |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:37:53.1051||INFO|VC.BLL.Board.WordsBoard|Building WordsBoardGraph - Completed |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:38:10.1670||INFO|VC.BLL.Board.WordsBoard|Loading dictionary data - Completed |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:38:10.1670||INFO|VC.BLL.Board.WordsBoard|Searching Words in graph - Begin |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords
+2018-11-20 23:38:10.1900||INFO|VC.BLL.Board.WordsBoard|Searching Words in graph - Completed |url: http://localhost/api/WordsBoard/GetAllWords|action: GetAllWords

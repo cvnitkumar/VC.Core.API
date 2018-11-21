@@ -1,0 +1,17 @@
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\VC.DS.UnitTests.deps.json
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\VC.DS.UnitTests.runtimeconfig.json
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\VC.DS.UnitTests.runtimeconfig.dev.json
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\VC.DS.UnitTests.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\VC.DS.UnitTests.pdb
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\VC.DS.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\bin\Debug\netcoreapp2.1\VC.DS.pdb
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\obj\Debug\netcoreapp2.1\VC.DS.UnitTests.csprojAssemblyReference.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\obj\Debug\netcoreapp2.1\VC.DS.UnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\obj\Debug\netcoreapp2.1\VC.DS.UnitTests.AssemblyInfoInputs.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\obj\Debug\netcoreapp2.1\VC.DS.UnitTests.AssemblyInfo.cs
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\obj\Debug\netcoreapp2.1\VC.DS.UnitTests.csproj.CopyComplete
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\obj\Debug\netcoreapp2.1\VC.DS.UnitTests.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DS.UnitTests\obj\Debug\netcoreapp2.1\VC.DS.UnitTests.pdb

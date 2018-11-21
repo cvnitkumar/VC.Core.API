@@ -1,0 +1,14 @@
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\bin\Debug\netcoreapp2.1\VC.DAL.deps.json
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\bin\Debug\netcoreapp2.1\VC.DAL.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\bin\Debug\netcoreapp2.1\VC.DAL.pdb
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\bin\Debug\netcoreapp2.1\Newtonsoft.Json.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\bin\Debug\netcoreapp2.1\Newtonsoft.Json.xml
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\obj\Debug\netcoreapp2.1\VC.DAL.csprojAssemblyReference.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\obj\Debug\netcoreapp2.1\VC.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\obj\Debug\netcoreapp2.1\VC.DAL.AssemblyInfoInputs.cache
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\obj\Debug\netcoreapp2.1\VC.DAL.AssemblyInfo.cs
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\obj\Debug\netcoreapp2.1\VC.DAL.csproj.CopyComplete
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\obj\Debug\netcoreapp2.1\VC.DAL.dll
+C:\Users\Neha\Documents\Visual Studio 2017\VCCoreAPIs\VC.DAL\obj\Debug\netcoreapp2.1\VC.DAL.pdb
